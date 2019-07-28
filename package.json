@@ -1,0 +1,32 @@
+{
+  "name": "demo-site",
+  "description": "Demo Site for @progital/gatsby-theme-wp-source-one",
+  "version": "1.0.0",
+  "author": "Andrey Shalashov <andrey@progital.io>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "clean": "gatsby clean",
+    "build": "gatsby build"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.2",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.12",
+    "gatsby-plugin-manifest": "^2.2.4",
+    "gatsby-plugin-offline": "^2.2.4",
+    "@progital/gatsby-theme-wp-source-one": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

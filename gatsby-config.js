@@ -4,7 +4,7 @@ module.exports = {
       resolve: `@progital/gatsby-theme-wp-source-one`,
       options: {
         wordPressUrl: `https://noh.progital.dev/`,
-        processPostTypes: [`Page`, `Post`, `Event`],
+        processPostTypes: [`Page`, `Post`],
       },
     },
     {

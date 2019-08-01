@@ -22,10 +22,10 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "gatsby": "^2.13.12",
+    "@progital/gatsby-theme-wp-source-one": "*",
+    "gatsby": "^2.13.45",
     "gatsby-plugin-manifest": "^2.2.4",
     "gatsby-plugin-offline": "^2.2.4",
-    "@progital/gatsby-theme-wp-source-one": "*",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }

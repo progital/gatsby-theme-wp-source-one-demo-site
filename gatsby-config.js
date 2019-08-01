@@ -14,7 +14,7 @@ module.exports = {
         short_name: `WP Source`,
         start_url: `/`,
         background_color: `#919191`,
-        theme_color: `#919191`,
+        theme_color: `#484848`,
         display: `standalone`,
         icon: `src/images/favicon.jpg`,
       },

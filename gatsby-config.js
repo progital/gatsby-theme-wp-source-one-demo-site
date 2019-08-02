@@ -5,6 +5,7 @@ module.exports = {
       options: {
         wordPressUrl: `https://noh.progital.dev/`,
         processPostTypes: [`Page`, `Post`],
+        useWebp: true,
       },
     },
     {
